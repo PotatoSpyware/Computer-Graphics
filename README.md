@@ -10,3 +10,5 @@ I used the bouncing shader as a base, built a rim lighting shader into it, and p
 each other so the object disappears and the rim lighting appears as the bounce reaches it's midpoint.
 I chose to do this as it can be used to show an object fading in and out of existence before 
 something like a teleport or defeat.
+
+<img width="1160" height="734" alt="image" src="https://github.com/user-attachments/assets/307c099b-812a-4d68-81ea-4d7fa0fb5dfc" />
